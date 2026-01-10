@@ -45,36 +45,33 @@ Jalankan Secara Lokal
 3. Klik dua kali file `index.html`
 4. Aplikasi akan terbuka di browser
 
-> Tidak memerlukan server atau instalasi tambahan.
 
 
 
  Jalankan Melalui GitHub Pages / Vercel
 1. Upload project ke repository GitHub
-2. Deploy menggunakan **Vercel**
+2. Deploy menggunakan Vercel
 3. Akses aplikasi melalui URL yang diberikan Vercel
 
 
 
-## 🧪 Cara Menggunakan Aplikasi
+Cara Menggunakan Aplikasi
 1. Isi form kontak (Nama, Telepon, Email, Lokasi)
 2. Klik tombol **Tambah Kontak**
 3. Kontak akan muncul di daftar dengan animasi
-4. Gunakan tombol **Edit** untuk mengubah data
-5. Gunakan tombol **Delete** untuk menghapus data
+4. Gunakan tombol Edit untuk mengubah data
+5. Gunakan tombol Delete untuk menghapus data
 
 
 
 Tujuan Pembuatan
 - Memenuhi persyaratan UAS Pemrograman Web
-- Menerapkan konsep CRUD sederhana
-- Menggunakan JavaScript untuk manipulasi DOM
 - Menerapkan desain UI modern dan user-friendly
 
 
 
  Author
-Nama: **(Isi Nama Kamu)**  
+Nama: Aqshel Hazarya P  
 Mata Kuliah: Pemrograman Web  
 Tahun: 2026
 
