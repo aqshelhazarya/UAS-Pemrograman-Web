@@ -9,17 +9,16 @@ Fitur Utama
 - Mengedit data kontak
 - Menghapus data kontak
 - Tampilan dark theme yang elegan
-- Animasi halus saat data berhasil ditambahkan
 - Desain modern dan responsif
-- Struktur folder rapi sesuai standar UAS
+
 
 
 
 Teknologi yang Digunakan
-- **HTML5** – Struktur halaman
-- **Tailwind CSS (CDN)** – Styling dan layout
-- **JavaScript (Vanilla JS)** – Logika aplikasi dan manipulasi DOM
-
+- HTML5 – Struktur halaman
+- Tailwind CSS (CDN) – Styling dan layout
+- JavaScript (Vanilla JS) – Logika aplikasi dan manipulasi DOM
+ 
 
 
 Struktur Folder
